@@ -9,5 +9,6 @@ https://forms.gle/dE1ezbrGrCjHh9yPA
 Responses will be shared with everyone once we receive every ones (well almost every ones) usernames.
 
 Also join our Discord server - https://discord.gg/3jsQjPRCzK
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+For starters we can get building our own website.
