@@ -4,11 +4,12 @@
 
 Please provide your name and GitHub username so we can collaborate and learn together :)
 
-https://forms.gle/dE1ezbrGrCjHh9yPA
+[forms](https://forms.gle/dE1ezbrGrCjHh9yPA)
 
 Responses will be shared with everyone once we receive every ones (well almost every ones) usernames.
 
-Also join our Discord server - https://discord.gg/3jsQjPRCzK
+Also join our Discord server - [discord](https://discord.gg/3jsQjPRCzK)
 
 
 For starters we can get building our own website.
+[GitHub](http://github.com)
